@@ -1,0 +1,36 @@
+apertium-es-gl (1.0.8~r57542-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * New upstream release
+  * No significant changes in svn since tarball, so taking directly from svn
+
+  [ Kartik Mistry ]
+  * Rebuilt for Trusty.
+  * Fixed dependencies.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 07 May 2015 11:52:53 +0530
+
+apertium-es-gl (1.0.7-1) unstable; urgency=low
+
+  * New upstream release
+  * Added dependency on apertium-pcre2
+
+ -- Francis Tyers <ftyers@prompsit.com>  Wed, 11 Mar 2009 21:24:47 +0000
+
+apertium-es-gl (1.0.6-1) unstable; urgency=low
+
+  * New upstream release fixes some upstream bugs
+
+ -- Francis Tyers <ftyers@prompsit.com>  Sat, 27 Oct 2007 21:00:24 +0100
+
+apertium-es-gl (1.0.5-2) unstable; urgency=low
+
+  * Fixed build-depends (Closes: #447242)
+
+ -- Francis Tyers <ftyers@prompsit.com>  Mon, 22 Oct 2007 16:26:53 +0100
+
+apertium-es-gl (1.0.5-1) unstable; urgency=low
+
+  * Initial release (Closes: #389227)
+
+ -- Francis Tyers <ftyers@prompsit.com>  Thu, 04 Oct 2007 10:24:41 +0100
