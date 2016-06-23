@@ -2,7 +2,7 @@ Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Source: http://apertium.org/
 
 Files: *
-Copyright:      2007, Prompsit Language Engineering (Parts of build system, documentation, and lexical data)
+Copyright: 2007, Prompsit Language Engineering (Parts of build system, documentation, and lexical data)
            2005-2006, Universidade de Vigo (Seminario de Lingüística Informática, http://sli.uvigo.es) (Galician monolingual data, Galician-Spanish bilingual lexical data, parts of Spanish monolingual data, and parts of Galician-Spanish bilingual structural data)
            2005-2006, Universitat d'Alacant (Transducens group, http://transducens.dlsi.ua.es) (Spanish monolingual data and parts of Galician-Spanish bilingual structural data)
            2005-2006, Universitat Politècnica de Catalunya (TALP group, http://www.talp.upc.edu) (parts of Spanish monolingual data)
@@ -10,6 +10,8 @@ License: GPL-2
 
 Files: autogen.sh
 Copyright: 2002, Daniel Elstner  <daniel.elstner@gmx.net>
+License: GPL-2
+
 License: GPL-2
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by

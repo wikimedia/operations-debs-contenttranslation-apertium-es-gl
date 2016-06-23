@@ -1,3 +1,11 @@
+apertium-es-gl (1.0.8~r57542-1+wmf1) jessie-wikimedia; urgency=low
+
+  * Rebuild for Jessie.
+  * Cleanup dependency and debian/rules.
+  * Fixed debian/copyright.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 23 Jun 2016 13:03:10 +0530
+
 apertium-es-gl (1.0.8~r57542-1) trusty; urgency=low
 
   [ Tino Didriksen ]
